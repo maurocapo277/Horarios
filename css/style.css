@@ -1,0 +1,22 @@
+.banner{
+    font-family: 'Montserrat', sans-serif;
+    font-size:4vh;
+}
+.a{
+    color:#F60307;
+}
+.header{
+    font-size: 16px;
+}
+#lun-gut-mdz{
+    
+}
+#sab-gut-pan{
+    display: none;
+}
+#sab-pan-gut{
+    display: none;
+}
+#dom-gut-mdz{
+    display: none;
+}
